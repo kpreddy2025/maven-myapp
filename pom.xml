@@ -30,7 +30,7 @@
     <repository>
       <id>myapp-releases</id>
       <name>myapp-releases</name>
-      <url>http://ip-172-31-29-73.ap-southeast-1.compute.internal:8081/nexus/content/repositories/myapp-releases/</url>
+      <url>http://ip-172-31-29-73.ap-southeast-1.compute.internal:8081/nexus/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
       <id>myapp-snapshots</id>
